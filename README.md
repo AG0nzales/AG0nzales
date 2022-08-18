@@ -1,7 +1,5 @@
 ### Hi There, I'm currently a Computer Science Student at a University in the Philippines.👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on ... My Thesis
 - 🌱 I’m currently learning ... Natural Language Processing Technologies
 - 👯 I’m looking to collaborate on ... NLP Projects
