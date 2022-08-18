@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**AG0nzales/AG0nzales** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi There, I'm currently a Computer Science Student at a University in the Philippines.👋
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on ... My Thesis
+- 🌱 I’m currently learning ... Natural Language Processing Technologies
+- 👯 I’m looking to collaborate on ... NLP Projects
+- 🤔 I’m looking for help with ... Natural Language Toolkit
+- 💬 Ask me about ... how to get started in tech
+- 📫 How to reach me: ... [Email](gonzalesjoshdre@gmail.com)
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I read doujinshi's
+
