@@ -2,7 +2,7 @@
 
 ## I'm Andre or Drei
 
-###I'm a Computer Science Student at a University in the Philippines. I am currently working my way in the tech industry.
+### I'm a Computer Science Student at a University in the Philippines. I am currently working my way in the tech industry.
 
 - 🔭 I’m currently working on ... My Thesis
 - 🌱 I’m currently learning ... Natural Language Processing Technologies and Production Managment
