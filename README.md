@@ -1,4 +1,4 @@
-# Kamusta👋
+# Kumusta👋
 
 I'm Andre or Daniel, I'm a student at the University of the Immaculate Conception 😵‍, currently studying Computer Science Student 🤔 <br>
 Interested on working with Web Technologies, and UI/UX works 💻🌐<br>
@@ -9,8 +9,8 @@ Other things I do besides coding:
 - Underwater Skydiving 🪂🤿
 - Disaster Meditation 🧘
 - Cooking Triathlons 👨‍🍳🤸
-- Beach Soccer 🏖️⚽
-- Opera Singing 🎭
+- Mountain Soccer 🏖️⚽
+- Opera Hiphop Dancer 🎭
 
 ## Programming Languages I somehow know
 - Java 
