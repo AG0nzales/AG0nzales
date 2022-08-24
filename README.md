@@ -1,9 +1,9 @@
 # Kamusta👋
 
 I'm Andre or Daniel, I'm a student at the University of the Immaculate Conception 😵‍, currently studying Computer Science Student 🤔 <br>
-A member of the [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) <br>
 Interested on working with Web Technologies, and UI/UX works 💻🌐<br>
-Other things I do besides coding.
+A member of the [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) <br>
+Other things I do besides coding:
 
 - Reading Books & Mangas 📚
 - Underwater Skydiving 🪂🤿
