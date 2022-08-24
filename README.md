@@ -1,15 +1,23 @@
 # Kamusta👋
 
-## I'm Andre or Drei
+I'm Andre or Daniel, I'm a student at the University of the Immaculate Conception 😵‍, currently studying Computer Science Student 🤔
+A member of the [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic)
+Interested on working with Web Technologies, and UI/UX works 💻🌐.
+Other things I do besides coding
 
-### I'm a Computer Science Student at a University in the Philippines. I am currently working my way in the tech industry.
+- Reading Books & Mangas 📚
+- Underwater Skydiving 🪂🤿
+- Disaster Meditation 🧘
+- Cooking Triathlons 👨‍🍳🤸
+- Beach Soccer 🏖️⚽
+- Opera Singing 🎭
 
-- 🔭 I’m currently working on ... My Thesis
-- 🌱 I’m currently learning ... Natural Language Processing Technologies and Production Managment
-- 👯 I’m looking to collaborate on ... NLP Projects
-- 🤔 I’m looking for help with ... Natural Language Toolkit
-- 💬 Ask me about ... how to get started in tech
-- 📫 How to reach me: ... Fastest way to reach me is through my [email](gonzalesjoshdre@gmail.com)
-- 😄 Pronouns: ... He/Him
-- ⚡ Fun fact: ... My hobby is reading doujinshi mangas  
+## Programming Languages I somehow know
+- Java 
+- Python
+- Javascript
+
+## Socials
+- [LinkedIn](https://www.linkedin.com/in/andre-gonzales-48385623a/)
+- [Instagram](https://www.instagram.com/shuuuaa/)
 
