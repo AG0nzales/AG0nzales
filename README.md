@@ -19,4 +19,3 @@ Other things I do besides coding:
 
 ## Socials
 - [LinkedIn](https://www.linkedin.com/in/andre-gonzales-48385623a/)
-- [Instagram](https://www.instagram.com/shuuuaa/)
