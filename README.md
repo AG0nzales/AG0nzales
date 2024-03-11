@@ -2,7 +2,7 @@
 
 <div align="center">
   
-  # Mabuhay! Kamusta?, Andre here 👋
+  # Mabuhay! Kamusta?👋
 
 </div>
 
