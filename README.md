@@ -1,23 +1,24 @@
-# Hey there👋, Andre here,
 
-<div align="center">The derogatory term “scrub” means several different things. One definition is someone (especially a game player) who is not good at something (especially a game). By this definition, we all start out as scrubs, and there is certainly no shame in that. I mean the term differently, though. A scrub is a player who is handicapped by self-imposed rules that the game knows nothing about. A scrub does not play to win.</div>
 
-A graduate of a Bachelor's degree in Computer Science🤔. <br>
-Web developer is the profession, Frontend and UI/UX works. 💻🌐<br>
-Was a member of the [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) during my College. <br>
-Got to represent my university in a conference in japan [AICCC 2022](https://uic.startbox.ph/bs-computer-science-students-presents-research-in-osaka-japan/).<br>
-Study got published in the [ACM Digital Library](https://dl.acm.org/doi/10.1145/3582099.3582101).<br>
+<div align="center">
+  
+  # Mabuhay! Kamusta Andre here 👋
 
-Other things I do besides coding:
+</div>
 
-- Creating Music 🎶🎧
-- Reading Books 📖📚
-- Reading Manga 🗾📚
+Andre Gonzales is the name,  a graduate with a Bachelor's degree in Computer Science. <br>
+A software developer based in Davao City, Philippines.<br>
+Currently, I'm all about crafting cool things on the web and diving into technologies that jazz up the developer experience! <br>
+My unforgettable milestone and beginning of the developer journey was that I got to represent my country and university in a conference presentation in japan [AICCC 2022](https://uic.startbox.ph/bs-computer-science-students-presents-research-in-osaka-japan/).<br>
+In my downtime, you'll catch me diving into the world of making music, watching anime, and  reading manga.
 
-## Programming Languages I know
-- Java 
+## Programming Languages I speak and touched
+- Java
+- Dart
+- PHP
 - Python
 - Javascript/Typescript
 
-## Socials
-- [LinkedIn](https://www.linkedin.com/in/andre-gonzales-48385623a/)
+## Other Socials
+- [LinkedIn](www.linkedin.com/in/joshua-andre-gonzales-48385623a/)
+- [Porfolio](www.linkedin.com/in/joshua-andre-gonzales-48385623a/)
