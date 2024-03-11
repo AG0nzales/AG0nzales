@@ -1,5 +1,7 @@
 # Hey there👋, Andre here,
 
+<p style="text-align: center;">Text_content</p>
+
 A graduate of a Bachelor's degree in Computer Science🤔. <br>
 Web developer is the profession, Frontend and UI/UX works. 💻🌐<br>
 Was a member of the [Google Developer Student Clubs UIC](https://www.facebook.com/dscuic) during my College. <br>
