@@ -21,4 +21,4 @@
 
 ## Other Socials
 - [LinkedIn](www.linkedin.com/in/joshua-andre-gonzales/)
-- [Porfolio](https://www.joshua-gnzls.vercel.app)
+- [Porfolio](http://joshua-gnzls.vercel.app)
