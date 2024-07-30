@@ -20,5 +20,5 @@
 - Javascript/Typescript
 
 ## Other Socials
-- [LinkedIn](www.linkedin.com/in/joshua-andre-gonzales-48385623a/)
+- [LinkedIn](www.linkedin.com/in/joshua-andre-gonzales/)
 - [Porfolio](https://www.joshua-gnzls.vercel.app)
