@@ -6,7 +6,7 @@
 
 </div>
 
-👋 Hey there, I'm Joshua!
+👋 Hey there, I'm Andre!
 
 🎓 Computer Science Graduate | 💻 Software Developer | 🚀 Gearing towards AI & Cloud Engineering
 
