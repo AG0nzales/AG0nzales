@@ -12,7 +12,7 @@
 
 📚 Book & Manga Enthusiast | 🎵 Music Maker | 📸 Photography Enjoyer
 
-## Programming Languages I speak and mole_sted
+## Programming Languages I speak
 - Java
 - Dart
 - PHP
@@ -21,4 +21,4 @@
 
 ## Other Socials
 - [LinkedIn](www.linkedin.com/in/joshua-andre-gonzales/)
-- [Porfolio](http://joshua-gnzls.vercel.app)
+- [Porfolio](http://joshuagnzls.com)
